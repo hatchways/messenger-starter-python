@@ -2,6 +2,8 @@
 
 A one-to-one realtime chat app.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ## Initial Setup
 
 Create the PostgreSQL database (these instructions may need to be adapted for your operating system):
